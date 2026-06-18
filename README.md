@@ -1,2 +1,2 @@
-### Witam na moim profilu
-Z zasady niewiele się tu dzieje - nie lubię Githuba
+### Welcome to my profile
+As a rule, not much happens here - I don't like Github
